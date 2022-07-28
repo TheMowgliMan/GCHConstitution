@@ -1,2 +1,0 @@
-# GCHConstitution
-Etc
